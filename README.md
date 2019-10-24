@@ -10,6 +10,15 @@ Estas normas tienen una fuerte inspiración en otros ejemplos que
 puedes encontrar en Internet, pero se han completado, cambiado y
 estructurado con la intención de que sean sencillas de entender.
 
+# Generar un PDF
+
+Las normas están escritas en
+[LaTeX](https://www.latex-project.org/). Para obtener un PDF tendrás
+que utilizar alguna herramienta que sea capaz de procesar texto LaTeX
+y generar un PDF. Puedes encontrar esas herramientas en
+https://www.latex-project.org/get/
+
+
 # Licencia
 
 Este es un resumen legible por humanos (y no un sustituto) de la licencia (ver fichero LICENSE)
